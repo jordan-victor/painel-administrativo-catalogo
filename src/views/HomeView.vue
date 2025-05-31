@@ -3,7 +3,6 @@
     <LinksView/>
   </header>
 
-
   <main class="container">
     <!-- CARDS -->
     <div class="cards d-flex gap-2 flex-wrap justify-content-center align-items-center align-items-center">
