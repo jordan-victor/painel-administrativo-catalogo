@@ -11,7 +11,6 @@
         <div class="card border-0 shadow p-2">
           <!-- <i class="fa-solid fa-shop"></i> -->
           <img src="img/store.png" alt="ícone loja">
-  
           <span>LOJA</span>
         </div>
       </router-link>
